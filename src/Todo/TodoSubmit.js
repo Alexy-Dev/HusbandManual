@@ -13,7 +13,7 @@ function TodoSubmit(props) {
   return (
     
       <form >
-      <button type='button' onClick={handleSubmit}>Send!</button>
+      <button type='button' onClick={handleSubmit}>Отправить</button>
       </form>
     );
 }
